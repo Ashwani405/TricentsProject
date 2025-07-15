@@ -8,4 +8,5 @@ CONFIRM_PASSWORD = "id:ConfirmPassword"
 REGISTER_BUTTON_LOCATOR = "id:register-button"
 COMPLETE_MESSAGE_LOCATOR = "//div[contains(text(),' Your registration completed')]"
 CONTINUE_BUTTON_LOCATOR = "//input[@value='Continue']"
+LOGOUT_LINK_LOCATOR = "//a[text()='Log out']"
 

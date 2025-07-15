@@ -21,3 +21,4 @@ Registration Functionality
 Varify Registration Functionality
        Wait Until Element Is Visible    ${COMPLETE_MESSAGE_LOCATOR}
        Wait And Click Element    ${CONTINUE_BUTTON_LOCATOR}
+       Wait And Click Element    ${LOGOUT_LINK_LOCATOR}
